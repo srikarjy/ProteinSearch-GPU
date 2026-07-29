@@ -1,4 +1,4 @@
-#protein-semsearch-gpu
+protein-semsearch-gpu
 
 ### CUDA-Accelerated Semantic Protein Retrieval with Biological Re-ranking
 
